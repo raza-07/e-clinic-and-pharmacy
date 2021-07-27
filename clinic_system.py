@@ -14,8 +14,6 @@ class Doctor(Person):
         self.fee = kwargs['fee']
 
     def check_patient(self):
-        """
-        """
         pass
 
     def write_prescription(self):
